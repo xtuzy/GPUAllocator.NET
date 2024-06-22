@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>0.26.0</Version>
+    <Description>C# port of https://github.com/Traverse-Research/gpu-allocator</Description>
+    <Authors>yangzhou</Authors>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/xtuzy/GPUAllocator.NET</RepositoryUrl>
+    <PackageTags>GPU memory allocator;</PackageTags>
+  </PropertyGroup>
+</Project>
