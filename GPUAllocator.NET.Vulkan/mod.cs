@@ -593,7 +593,7 @@ namespace GPUAllocator.NET.Vulkan
             this.Device = desc.Device;
             this.BufferImageGranularity = granularity;
             this.DebugSettings = desc.DebugSettings;
-            this.AllocationSizes = AllocationSizes.Default;
+            this.AllocationSizes = desc.AllocationSizes;
         }
 
         public Allocation Allocate(ref AllocationCreateDesc desc)

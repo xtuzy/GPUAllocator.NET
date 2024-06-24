@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.26.0</Version>
+    <Version>0.26.1</Version>
     <Company />
     <Authors>yangzhou</Authors>
     <RepositoryUrl>https://github.com/xtuzy/GPUAllocator.NET</RepositoryUrl>

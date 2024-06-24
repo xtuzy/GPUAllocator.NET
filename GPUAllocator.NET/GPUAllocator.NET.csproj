@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.26.0</Version>
+    <Version>0.26.1</Version>
     <Description>C# port of https://github.com/Traverse-Research/gpu-allocator</Description>
     <Authors>yangzhou</Authors>
     <PackageProjectUrl></PackageProjectUrl>
